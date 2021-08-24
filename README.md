@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Install Docker and Docker Compose. Abhishek Test adqewe
+Install Docker and Docker Compose. Abhishek Test adqeweerer
 
 ```
 docker-compose up
@@ -12,7 +12,7 @@ Navigate to `http://localhost:8080`
 To update image
 
 ```
-docker-compose build
+docker-compose buildwerwe
 ```
 
 ## Requirements
