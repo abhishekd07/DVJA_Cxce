@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Install Docker and Docker Compose. Abhishek Test adqewe
+Install Docker and Docker Compose. Abhishek Test adqeweerer
 
 ```
 docker-compose up
