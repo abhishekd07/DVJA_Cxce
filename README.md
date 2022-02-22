@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Install Docker and Docker Compose. Abhishek Test AST
+Install Docker and Docker Compose. Abhishek Test CxCE Demo Feb 2022
 
 ```
 docker-compose up
