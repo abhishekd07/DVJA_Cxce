@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Install Docker and Docker Compose. Abhishek Test AST
+Install Docker and Docker Compose. Abhishek Test AST AST Demo
 
 ```
 docker-compose up
